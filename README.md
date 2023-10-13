@@ -2,10 +2,6 @@
 
 # QRCodeReader
 
-## QR
-
-### Email
-
 <details>
 <summary>👉 MATMSG:TO:example@lilucat.com;SUB:I am subject;BODY:I am body;;</summary>
 <br>
